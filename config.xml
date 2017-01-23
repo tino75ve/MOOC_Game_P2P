@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.Juego" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Juego P2P</name>
+    <description>
+        Juego demostracion de las capacidades del acelerometro para P2P. De: Ing. Laurentino Da Costa.
+    </description>
+    <author email="laurentino.tmve@gmail.com" href="http://neocities.laurentinovzla.org">
+        Devscola
+    </author>
+    <platform name="android">
+    	<preference name="orientation" value="portrait" />
+    </platform>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
